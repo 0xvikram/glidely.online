@@ -144,6 +144,7 @@ Without global `turbo`:
 ```sh
 npx turbo link
 pnpm exec turbo link
+****
 pnpm exec turbo link
 ```
 
