@@ -43,7 +43,7 @@ cd my-turborepo
 turbo build
 ```
 
-Without global `turbo`, use your package manager:
+Without global `turbo`, use your package manager use:
 
 ```sh
 cd my-turborepo
